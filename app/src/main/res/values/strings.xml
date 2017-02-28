@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Visit Kagoshima</string>
+
+    <!-- Category Titles -->
+    <string name="category_attractions">Attractions</string>
+    <string name="category_dining">Dining</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_accommodations">Accommodations</string>
+
+    <!-- Attractions Fragment Titles -->
+    <string name="fragment_top_sights">Top Sights</string>
+    <string name="fragment_museums">Museums</string>
+    <string name="fragment_monuments">Monuments</string>
+
+    <string name="top_sights_1">Sakurajima</string>
+    <string name="top_sights_2">Senganen</string>
+    <string name="top_sights_3">Kagoshima Aquarium</string>
+    <string name="top_sights_4">Shiroyama Park</string>
+
+    <string name="top_sights_description_1">Sakurajima (桜島) is one of Japan\'s most active volcanoes and the symbol of Kagoshima. The volcano smokes constantly, and minor eruptions often take place multiple times per day. Located in the middle of Kagoshima Bay, Sakurajima is the area\'s most prominent geographic feature, having an elevation of 1117 meters and a circumference of about 50 kilometers.</string>
+    <string name="top_sights_description_2">Senganen Garden (仙巌園), also known as Isoteien (磯庭園), is a Japanese style landscape garden along the coast north of downtown Kagoshima. One of the garden\'s most striking features is its use of Sakurajima and Kagoshima Bay as borrowed scenery. The garden also includes small ponds, streams, shrines and a bamboo grove.</string>
+    <string name="top_sights_description_3">Kagoshima Aquarium (いおワールド鹿児島水族館, Io World Kagoshima Suizokukan) is located along the water beside Kagoshima Port, just beside the Sakurajima ferry terminal. The aquarium was opened in 1997 and has a total of seven floors. There is an emphasis on local marine life, including the chain of islands to the south that are also part of Kagoshima Prefecture.</string>
+    <string name="top_sights_description_4">The Reimeikan Museum (黎明館) is dedicated to local history and culture. On three spacious floors it presents a wide variety of exhibits that cover the span of Kagoshima\'s history from ancient to modern times. There are a few interesting models, such as a large diorama of downtown Kagoshima at the beginning of the Showa Period (1926-1989) and a small scale model of a village from the middle ages.</string>
+
+    <string name="museums_1">Reimeikan</string>
+    <string name="museums_2">Museum of the Meiji Restoration</string>
+    <string name="museums_3">Shoko Shuseikan</string>
+    <string name="museums_4">Kagoshima Prefectural Museum"</string>
+
+    <string name="museums_description_1">The Reimeikan Museum (黎明館) is dedicated to local history and culture. On three spacious floors it presents a wide variety of exhibits that cover the span of Kagoshima\'s history from ancient to modern times. There are a few interesting models, such as a large diorama of downtown Kagoshima at the beginning of the Showa Period (1926-1989) and a small scale model of a village from the middle ages.</string>
+    <string name="museums_description_2">The Museum of the Meiji Restoration (維新ふるさと館 Ishin-furusato-kan) is a history museum in Kagoshima, Japan. Located by the Kōtsuki River, it is a gallery where visitors can learn about the Meiji Restoration. In the basement hall, sound, light, and robots are used to present a three-dimensional experience of the Meiji Restoration. On the first floor, exhibits describe the people, things, and events of Satsuma Province.</string>
+    <string name="museums_description_3">The Shoko-Shuseikan museum, offers an excellent history of Japan\'s emergence into the Western World. It adjoins the Satsuma family home and complex. This museum overviews how at the end of the Edo period 1850\'s and with the appearance of ships from western powers in Japanese waters, the lord of the Satsuma clan promoted modernization and industrialization projects and constructed an industrial complex. This machinery factory is now the main building of the historical museum \”Shoko-Shuseikan\”. Shoko-Shuseikan provides exhibits and the history of the Shimadzu family and Kagoshima\'s evolution in to the western industrialised world. This includes the rich history and a culture of Kagoshima and its relationship with the West by sea. The museum hosts a variety of periodic exhibitions and is surrounded by beautiful gardens. Open throughout the year - 8:30 am-5:30 pm</string>
+    <string name="museums_description_4">This museum has in its possession 66,000 valuable cultural heritage items, and also conducts research and displays the history, folklore and cultural heritage of Kagoshima Prefecture. The roughly 1,800 display artifacts are substantial, especially the items related to the beginning of the Meiji Restoration. The main attraction is the \“Kagoshima History Corner\”, a large scale model on the first floor. This model is divided into four sections starting from ancient times until the present, and displays symbolic buildings and the townscapes from each time period. Visitors can have a fun time learning about the historical backdrop of Kagoshima through quizzes, videos and the giant diorama. The Kagoshima Prefectural Museum of Culture Reimeikan is a hands-on oriented facility which has created a hands-on experience corner that allows visitors to try on Japanese armor.</string>
+
+    <string name="monuments_1">Saigo Takamori Statue</string>
+    <string name="monuments_2">Okubo Toshimichi Statue</string>
+    <string name="monuments_3">Sakebi no Shozo</string>
+    <string name="monuments_4">Takamori Saigo Birthplace Monument</string>
+
+    <string name="monuments_description_1">This statue commemorates Saigo Takamori, who is considered one of the great heroes of Japanese history. Originally from Satsuma domain in Kyushu, one of the most important domains to lead the Meiji Restoration of 1868, Saigo played a key role in overthrowing the Tokugawa shogunate. an event many consider a watershed moment in Japanese history.</string>
+    <string name="monuments_description_2">This statue is found between JR Kagoshima Chuo station and Tenmonkan. So, if you come to Kagoshima for sightseeing, you are sure to pass by. Like Saigo, Okubo is a hero of Kagoshima.</string>
+    <string name="monuments_description_3">An odd stop on the Sakurajima Island view bus loop this is a large stone statue which was created in memory of a rock concert held on Sakurajima in early 2004.</string>
+    <string name="monuments_description_4">This is the place, where Takamori Saigo, hero of Kagoshima, was born. Not only Saigo, but many other famous persons at the end of Edo Period were born nearby. When you take a walk this area, you might discover unexpectedly some interesting historical monuments.</string>
+
+    <!-- Dining Fragment Titles -->
+    <string name="fragment_restaurants">Restaurants</string>
+    <string name="fragment_fast_food">Fast Food</string>
+    <string name="fragment_grocery">Grocery</string>
+
+    <string name="restaurant_1">Kagomma Furusato Yataimura</string>
+    <string name="restaurant_2">Tontoro Ramen</string>
+    <string name="restaurant_3">Ajimori</string>
+    <string name="restaurant_4">Kawakyu</string>
+
+    <string name="restaurant_description_1">"KAGOSHIMA FURUSATO YATAIMURA" is a "fake" village of food stalls featuring locally-grown foods. Every shop entertains you with a variety of delicious dishes with original ingredients from different areas of Kagoshima.</string>
+    <string name="restaurant_description_2">There is a street behind the main avenue in Kagoshima full of excellent ramen shops. The quality of the food is outstanding and quite affordable.</string>
+    <string name="restaurant_description_3">This classy multistory shop claims to have invented kurobuta shabu-shabu. Set meals come with handmade udon noodles and side dishes depending on the price. There are also tonkatsu (deep-fried pork cutlet) meals (from ¥880 at lunchtime, except Sunday). It\'s right next to the APA hotel.</string>
+    <string name="restaurant_description_4">This shop is famous for it\'s fried black pork cutlet. Since it is 10min walk from my Hotel so we have our dinner there. The pork cutlet well fried in golden colour. The surface is crisp with the meat tender and juicy.</string>
+
+    <string name="fast_food_1">Yoshinoya Tokai</string>
+    <string name="fast_food_2">Coco Ichibanya</string>
+    <string name="fast_food_3">Mos Burger</string>
+    <string name="fast_food_4">McDonald\'s</string>
+
+    <string name="fast_food_description_1">A Japanese fast food chain, and the largest chain of gyūdon (beef bowl) restaurants. The chain was established in Japan in 1899. Its motto is \"Tasty, low-priced, and quick\".</string>
+    <string name="fast_food_description_2">The top curry rice restaurant chain in Japan, Curry House CoCo Ichibanya or usually just CoCo Ichiban or CoCo Ichi.</string>
+    <string name="fast_food_description_3">It is now the second-largest fast-food franchise in Japan after McDonald\'s Japan, and owns numerous overseas outlets over East Asia, including Taiwan, Singapore, Hong Kong, Thailand, Indonesia, Australia, South Korea and, until 2005, Hawaii. It is also the name of the standard hamburger offered by the restaurant, being its first product when it opened in 1972.</string>
+    <string name="fast_food_description_4">An American hamburger and fast food restaurant chain.</string>
+
+    <string name="grocery_1">Sankyu</string>
+    <string name="grocery_2">Max Valu</string>
+    <string name="grocery_3">Taiyo</string>
+    <string name="grocery_4">Aeon</string>
+
+    <string name="grocery_description_1">Japanese grocery</string>
+    <string name="grocery_description_2">Japanese grocery</string>
+    <string name="grocery_description_3">Japanese grocery</string>
+    <string name="grocery_description_4">ÆON is the largest retailer in Asia. ÆON is a retail network comprising around 300 consolidated subsidiaries and 26 equity-method affiliated companies ranging from convenience stores \"Ministop\" and supermarkets to shopping malls and specialty stores, including Talbots.</string>
+
+    <!-- Shopping Fragment Titles -->
+    <string name="fragment_shopping_centers">Shopping Centers</string>
+    <string name="fragment_gift_shops">Gift Shops</string>
+    <string name="fragment_other">Other</string>
+
+    <string name="shopping_centers_1">AMU Plaza</string>
+    <string name="shopping_centers_2">Tenmonkan</string>
+    <string name="shopping_centers_3">Daiei</string>
+    <string name="shopping_centers_4"></string>
+
+    <string name="shopping_centers_description_1">Amu Plaza Kagoshima (アミュプラザ鹿児島 Amyu Puraza Kagoshima?) is the terminal building adjacent to Kagoshima-Chūō Station. It is owned by the Kagoshima Terminal Building Corporation, which belongs to JR Kyushu. Amu Plaza Kagoshima has about 190 shops. When it opened on 17 September 2004, its floor space was the largest in Kagoshima, surpassing the Yamakataya department store. It was superseded in 2007 by Aeon Kagoshima Shopping Centre.</string>
+    <string name="shopping_centers_description_2">Tenmonkan, in downtown Kagoshima, is the number one shopping area in the southern Kyushu region. The Tenmonkan shopping arcade has a roof cover to provide shade from the sun and also volcanic ash from Mount Sakurajima. There are retail stores, boutiques, restaurants selling traditional Kagoshima food, café, and so on, lining the arcade.</string>
+    <string name="shopping_centers_description_3">Daiei is a department store, selling electronics, home furnishings, and clothes. In terms of net sales, Daiei used to be the largest retailer in Japan. However, total sales declined by nearly a quarter in the five years leading up to 2003.</string>
+
+    <string name="gift_shops_1">Dolphin Port</string>
+    <string name="gift_shops_2">Yumeria</string>
+    <string name="gift_shops_3">Sakurajima Bussankan</string>
+
+    <string name="gift_shops_description_1">Dolphin Port is a modest-sized shopping and restaurant complex overlooking the bay. There is a wide selection of restaurants. The big attraction is the view of the bay and Mt Sakurajima. Relax with a coffee or beer and soak up the atmosphere.</string>
+    <string name="gift_shops_description_2">It sells souvenirs of Kagoshima. Yumeria has vegetables, prepared foods, and sweets. It has a local feeling the big tofu is delicious.</string>
+    <string name="gift_shops_description_3">This shop is in the shape of a large Sakurajima radish. There are tons of Kagoshima souveneirs available for purchase.</string>
+
+    <!-- Accommodations Fragment Titles -->
+    <string name="fragment_hotels">Hotels</string>
+    <string name="fragment_hostels">Hostels</string>
+
+    <string name="hotels_1">JR Kyushu Hotel Kagoshima</string>
+    <string name="hotels_2">Richmond Hotel Kagoshima Kinseicho</string>
+    <string name="hotels_3">Dormy Inn Kagoshima</string>
+    <string name="hotels_4">Hotel Shiroyama</string>
+
+    <string name="hotels_description_1">One of our top picks in Kagoshima.
+    \n\nDirectly connected to JR Kagoshima Chuo Shinkansen (bullet train) Station, JR Kyushu Hotel Kagoshima offers modern guest rooms with free Wi-Fi in 2 separate towers. Local Kagoshima cuisine can be savoured at the on-site restaurant.
+    \n\nEach room at JR Kyushu Hotel features an LCD TV and a small fridge. A hairdryer and toiletries are included in the en suite bathroom.
+    \n\nFree luggage storage services are offered at the front desk. In-room massages and dry-cleanings can be arranged. There are also coin laundrettes and free-use internet PCs on site.
+    \n\nThe hotel is a 7-minute drive from Terukuni Shrine, and a 13-minute drive from Senganen Garden. Kagoshima Aquarium is a 6-minute drive away.</string>
+    <string name="hotels_description_2">One of our top picks in Kagoshima.
+    \n\nJust steps away from Asahidori Tram Stop, Richmond Hotel Kagoshima Kinseicho features comfortable guestrooms, free property-wide Wi-Fi and a breakfast buffet. JR Kagoshima Chuo Shinkansen (bullet train) Station is a 10-minute drive or a tram ride away.
+    \n\nEach room comes with a flat-screen TV, a fridge and an air-purifier/humidifier. An electric kettle with tea bags is also provided. The en suite bathroom comes with a bath tub and free toiletries.
+    \n\nKagoshima Kinseicho Richmond Hotel provides coin launderette, drinks vending machines and a free-use microwave. Laptops and a printer can be rented from the 24-hour front desk. Free luggage storage services are offered, while in-room massages can be arranged at an additional charge.
+    \n\nThe hotel is an 8-minute walk to the lively Temmonkan-dori area and a 12-minute walk to Kagoshima Aquarium. Kagoshima Airport is a 50-minute bus ride away.</string>
+    <string name="hotels_description_3">Dormy Inn Kagoshima offers modern accommodations with free wired internet access. Indoor/outdoor hot-spring baths are available for freshening up after a long day and massages can be requested for an extra cost. JR Kagoshima Chuo Train Station is a 5-minute taxi ride away.
+    \n\nThe air-conditioned rooms feature carpeted floors, a fridge and an electric kettle with green tea bags. Guests can enjoy video-on-demand movies on the flat-screen TV and wear the provided sleepwear. The en suite bathroom comes with a hairdryer and slippers.
+    \n\nKagoshima Dormy Inn is a 5-minute drive from Saigo Cave and Tsurumaru Castle Ruins. Sengan Park is a 20-minute drive away.
+    \n\nYou can relax in the sauna rooms and use the coin-launderette on-site. Laptop rentals are available at the front desk and dry cleaning services are offered as well. English speaking staff can assist guests at the 24-hour front desk.
+    \n\nA breakfast buffet is served at the dining room and free late-night noodles are served between 21:30 and 23:00.</string>
+    <string name="hotels_description_4">Featuring an open-air natural hot spring bath overlooking Sakurajima Volcano and the sea, Hotel Shiroyama Kagoshima offers a spa centre, 7 dining options and a concierge. Rooms have free wired internet.
+    \n\nSome rooms come with a view of Sakurajima volcano and Kinko-wan Bay. All are equipped with an LCD TV with satellite channels, a fridge and a safe.
+    \n\nThe spa at Hotel Shiroyama Kagoshima offers a mist sauna, a flower bath and massage treatments. Guests can also enjoy karaoke and shopping.
+    \n\nThe Sky Lounge offers panoramic city views and Western food, while other restaurants serve Japanese and Chinese specialities. Castle Park houses its own bakery and brewery.
+    \n\nA free bus circulates between Hotel Shiroyama Kagoshima, JR Kagoshima Chuo Station and downtown area Tenmonkan, both a 10-minute drive away. a</string>
+
+    <string name="hostels_1">Green Guest House</string>
+    <string name="hostels_2">Kagoshima Little Asia Guest House</string>
+    <string name="hostels_3">Hotel &amp; Residence Nanshukan</string>
+
+    <string name="hostels_description_1">Featuring a rooftop terrace with impressive views of Sakurajima volcano, free Wi-Fi throughout, a free-use kitchen and a coin launderette, Green Guesthouse is a 5-minute walk from Izuro-Dori Tram Station. It offers private and dormitory-style rooms with shared showers.
+    \n\nGuesthouse Green offers a variety of sleeping arrangements including bunk beds, capsule sleeping compartments and private rooms with a mattress or bunk bed. Each simple room is air-conditioned and non-smoking, with shared toilets.
+    \n\nThe guesthouse is a 5-minute walk to the dolphin port and a 10-minute walk to Kagoshima Aquarium, and you can rent a bicycle to make the trip even shorter. The property is a 10-minute drive from JR Kagoshima Train Station.</string>
+    <string name="hostels_description_2">Only a 1-minute walk from JR Kagoshima-Chuo Station, Kagoshima Little Asia offers dorm beds and private rooms, free Wi-Fi throughout and rental bicycles. It offers free-use facilities for guests, including laundry, internet PCs and kitchen appliances.
+    \n\nLittle Asia Kagoshima is a 4-minute walk from the Nishida Onsen Hot Spring, while Kagoshima Aquarium and Sakurajima Ferry Terminal are both a 10-minute drive.
+    \n\nGuests at Little Asia can relax at the lounge, or prepare a meal in the kitchen, which is equipped with a stove, a microwave and a refrigerator. A washing machine and a dryer can also be used free of charge.
+    \n\nShared dormitory rooms and private rooms are both air-conditioned, and they a flat-screen TV, offer bunk beds and heating. Toilets and showers are shared.</string>
+    <string name="hostels_description_3">Located in the central areas of Kagoshima City, Nanshukan is a 5-minute walk from both the Asahidori and Izurodori Tram Stations. Free wired internet access and a satellite TV are included in each room. Guests can request massages for relaxation.
+    \n\nThe air-conditioned rooms feature a fridge and an electric kettle with green tea bags. Yukata robes and slippers are available for all guests, and the en suite bathroom includes a hairdryer. Some rooms feature a kitchenette and a tatami (woven-straw) seating area.
+    \n\nA computer with free internet access is available at the lobby. Photocopying and bicycle rentals are provided as well.
+    \n\nJapanese dishes are served at the hotel’s restaurant. Breakfast and dinner are served.
+    \n\nNanshukan Hotel is a 5-minute walk from Terukuni Shrine and a 10-minute drive from Ishibashi Park. Kagoshima Botanical Garden and JR Kagoshima Chuo Train Station are both a 10-minute drive away. </string>
+
+</resources>

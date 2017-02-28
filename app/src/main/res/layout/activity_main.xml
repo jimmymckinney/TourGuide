@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.tourguide.MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/attractions"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:foreground="?android:selectableItemBackground">
+
+        <TextView
+            style="@style/CategoryStyle"
+            android:layout_weight="1"
+            android:background="@color/category_attractions"
+            android:text="@string/category_attractions" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha=".2"
+            android:scaleType="centerCrop"
+            android:src="@drawable/top_sights_sakurajima" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/dining"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:foreground="?android:selectableItemBackground">
+
+        <TextView
+            style="@style/CategoryStyle"
+            android:layout_weight="1"
+            android:background="@color/category_dining"
+            android:text="@string/category_dining" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha=".2"
+            android:scaleType="centerCrop"
+            android:src="@drawable/restaurants_ajimori" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/shopping"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:foreground="?android:selectableItemBackground">
+
+        <TextView
+            style="@style/CategoryStyle"
+            android:layout_weight="1"
+            android:background="@color/category_shopping"
+            android:text="@string/category_shopping" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha=".2"
+            android:scaleType="centerCrop"
+            android:src="@drawable/shopping_centers_amu_plaza" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/accommodations"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:foreground="?android:selectableItemBackground">
+
+        <TextView
+            style="@style/CategoryStyle"
+            android:layout_weight="1"
+            android:background="@color/category_accommodations"
+            android:text="@string/category_accommodations" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha=".2"
+            android:scaleType="centerCrop"
+            android:src="@drawable/hotels_hotel_shiroyama" />
+    </RelativeLayout>
+
+</LinearLayout>
